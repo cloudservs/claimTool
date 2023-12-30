@@ -1,0 +1,14 @@
+spring:
+  data:
+    mongodb:
+      host: "216.48.179.136"
+      port: 8100
+      database: "claim-tool"
+      username: "claim-db-user"
+      password: "claims@ct.202312@001"
+
+amazon:
+  s3:
+    access_key: "AKIARDOYDLJCBZEPI2TM"
+    sec_key: "SgW4UwBtXGDf1g+bgKz6ZDMYLEL6nFjy6MvlWTM5"
+    claimtool-bucket: "cserv_ct_bucket"
